@@ -1,6 +1,6 @@
 # simple-calculator-python-beeware-android
 
-Beeware test (python framework) in a simple calculator implementation for android:
+Test of BeeWare (python framework) in a simple calculator implementation for android:
 
 <img src="Capture1.PNG" width="200px"><img src="Capture1b.PNG" width="200px"><img src="Capture2.PNG" width="200px">
 
