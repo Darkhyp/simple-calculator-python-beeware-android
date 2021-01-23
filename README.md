@@ -2,7 +2,7 @@
 
 Beeware test (python framework) in a simple calculator implementation for android:
 
-<img src="Capture1.PNG" width="200px"><img src="Capture2.PNG" width="200px">
+<img src="Capture1.PNG" width="200px"><img src="Capture1a.PNG" width="200px"><img src="Capture2.PNG" width="200px">
 
 Problems:
 
